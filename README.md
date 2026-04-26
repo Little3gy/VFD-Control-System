@@ -1,4 +1,4 @@
-# VFD High Voltage Buck Converter Controller
+# High Voltage Variable Frequency Drive VFD
 
 ## Executive Summary
 
